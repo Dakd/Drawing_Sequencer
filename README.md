@@ -5,4 +5,4 @@ Windows에서 쓰시려면 syphon라이브러리 대신에 spout라이브러리�
 또한 웹캠 설정을 본인의 환경에 맞추셔야 합니다.  
 또한 미디환경 설정도...  
   
-  [![Video Label](http://img.youtube.com/vi/pBHM7PaSRa8/3.jpg)](https://youtu.be/pBHM7PaSRa8=0s)  
+[![Video Label](http://img.youtube.com/vi/pBHM7PaSRa8/0.jpg)](https://youtu.be/pBHM7PaSRa8=0s)  
